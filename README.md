@@ -16,11 +16,11 @@ I'm a passionate **Java & Android Developer** exploring Full Stack Development a
 
 ### 🛠️ Skills & Technologies
 
-| Languages           | Frameworks & Tools           | Platforms       |
+| Languages           | Frameworks & Tools          | Platforms       |
 |---------------------|-----------------------------|-----------------|
-| Java, JavaScript    | Android, React, Node.js      | Android, Web    |
-| HTML, CSS           | Firebase, REST APIs          |                 |
-| SQL, NoSQL          | Git, GitHub                  |                 |
+| Java, JavaScript    | Android, Firebase, Node.js,express.js| Android, Web |
+| HTML, CSS           | React , REST APIs          |                 |
+| SQL, NoSQL          | Git, GitHub                |                 |
 
 ---
 
