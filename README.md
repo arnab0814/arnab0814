@@ -26,7 +26,7 @@ I'm a passionate **Java & Android Developer** exploring Full Stack Development a
 
 ### 📂 Featured Projects
 
-- [Milap - Dating App](https://github.com/Milap-repo)  
+- [Milap - Dating App](https://github.com/arnab0814/Milap-repo.git)  
   A full-featured dating app with real-time chat, emoji support, and Firebase integration.
 
 - [Train Reservation System](https://github.com/arnab0814/TrainReservationSystem)  
